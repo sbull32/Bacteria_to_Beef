@@ -22,4 +22,4 @@ Below is the code we used to create our website and the associated elements
 
 ### Guage Chart
 
-![Guage Code](https://github.com/sbull32/Bacteria_to_Beef/blob/main/static/images/guage_code.png)
+![Guage Code](https://github.com/sbull32/Bacteria_to_Beef/blob/main/static/images/gauge_code.png)
